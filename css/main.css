@@ -1,0 +1,36 @@
+body header .continir {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+body header .continir nav {
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body header .continir nav .nav a {
+  text-decoration: none;
+  margin-left: 33px;
+  color: #83888F;
+  font-family: Barlow;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.923px;
+  text-transform: uppercase;
+}
+body header .continir nav .nav a:hover {
+  cursor: pointer;
+  color: #333D4B;
+  font-family: Barlow;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px; /* 125% */
+  letter-spacing: 0.923px;
+  text-transform: uppercase;
+}
+body header .baner {
+  background-image: url("..");
+}/*# sourceMappingURL=main.css.map */

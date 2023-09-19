@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FEFCF7;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul li {
+    list-style: none;
+}
+
+img {
+    display: block;
+}
+
+button {
+    border: none;
+    outline: none;
+}
+.container {
+    max-width: 1260px;
+    margin: 0 auto;
+}
